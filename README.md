@@ -1,5 +1,3 @@
-
-```
 # Portfolio Website
 
 This is a personal portfolio website for Arthur Nguyen, showcasing projects, skills, and contact information.
