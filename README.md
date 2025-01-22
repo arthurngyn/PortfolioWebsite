@@ -70,6 +70,4 @@ For any inquiries, please contact Arthur Nguyen at:
 - **LinkedIn**: [Connect with me on LinkedIn](#https://www.linkedin.com/in/arthurngyn/)
 
 © 2025 Arthur Nguyen. All Rights Reserved.
-```
 
-You can copy and paste this directly into your `README.md`. Let me know if there’s anything else you’d like to modify!
