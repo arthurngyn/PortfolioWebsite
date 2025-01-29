@@ -2,6 +2,8 @@
 
 This is a personal portfolio website for Arthur Nguyen, showcasing projects, skills, and contact information.
 
+https://arthurngyn.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
